@@ -1,4 +1,4 @@
-#create a virtual environment using
+# create a virtual environment using
 pyhton -m venv venv
 
 # activate the virtual environment
