@@ -1,5 +1,5 @@
 Flask
 speechrecognition
 pyaudio
-threading
 gunicorn
+pyttsx3
